@@ -1,0 +1,41 @@
+body {
+    background-color: aquamarine;
+}
+
+.divtag{
+    background-color: blanchedalmond;
+}
+
+#div1{
+    background-color: rgb(87, 129, 129);
+}
+
+#div2{
+    background-color: black;
+}
+
+#imagetag{
+    position: relative;
+    top:100px;
+    left:100px;
+    z-index: -1;
+
+}
+
+#div3{
+    background-color: brown;
+}
+
+h1 {
+    color: blue;
+    color: blueviolet;
+    background-color: black;
+}
+
+#h1tag {
+    color: bisque;
+}
+
+.htag {
+    color: brown;
+}
